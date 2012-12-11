@@ -56,3 +56,17 @@ Documents, RDoc & RI documentation for %{name}.
 %doc %{ruby_gemdir}/gems/%{rbname}-%{version}/README
 %doc %{ruby_gemdir}/doc/%{rbname}-%{version}
 
+
+
+%changelog
+* Wed Feb 15 2012 Per Øyvind Karlsen <peroyvind@mandriva.org> 0.2.1-2
++ Revision: 774161
+- mass rebuild of ruby packages against ruby 1.9.1
+
+* Mon Oct 03 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 0.2.1-1
++ Revision: 702544
+- imported package rubygem-rots
+
+
+* Mon Oct 03 2011 Per Øyvind Karlsen <peroyvind@t61.proyvind> 0.2.1-1
+- Initial package
