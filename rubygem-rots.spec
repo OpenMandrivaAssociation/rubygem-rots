@@ -5,7 +5,7 @@ Summary:	an OpenID server for making tests of OpenID clients implementations
 Name:		rubygem-%{rbname}
 
 Version:	0.2.1
-Release:	2
+Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		http://github.com/roman/rots
