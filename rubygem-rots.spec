@@ -8,7 +8,7 @@ Version:	0.2.1
 Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
-URL:		http://github.com/roman/rots
+URL:		https://github.com/roman/rots
 Source0:	%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildArch:	noarch
